@@ -1,12 +1,11 @@
 * {
-  margin: 0px;
+  max-width: 2100px;
+  margin:0 auto ;
   font-family: "Work Sans", sans-serif;
 }
 
 header {
   background: #ff900e1a;
-  width: 2100px;
-  margin-right: 0px;
 }
 
 /*  **Nav Section** */
